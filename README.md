@@ -12,4 +12,4 @@ I'm also interested on building highly scalable and production-ready NodeJS appl
 
 - 📫 How to reach me: silveira.kaio@icloud.com | https://www.linkedin.com/in/kaio-silveira/
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: ALthough I'm terrible at cooking, my family love my pancakes! 🥞🥞
+- ⚡ Fun fact: Although I'm terrible at cooking, my family love my pancakes! 🥞🥞
