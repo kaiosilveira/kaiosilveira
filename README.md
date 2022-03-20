@@ -6,7 +6,7 @@ I'm Brazilian, from São Paulo, but I'm currently based in Lisbon, Portugal, whe
 
 My previous experiences includes Trainline, the leading train ticketing company in Europe, and Yellowcam, a small startup based in São Paulo.
 
-I'm currently studying design patterns, because althought I'm familiar with most part of the patterns described in the book, I would like to get deeper knowledge behind each of them. I'm enjoying the book, so I decided to document my learnings in a catalog. If you're curious about it, please have a look at [design-patterns](https://github.com/kaiosilveira/design-patterns).
+I'm currently studying design patterns because althought I'm familiar with most part of the patterns described in the book, I would like to get deeper knowledge behind each of them. I'm reading the official, GoF's Design Patterns book alongside the Head First Design Patterns book (to help fixing the knowledge). I'm really enjoying both of them, so I decided to document my learnings in a catalog. If you're curious about it, please have a look at [design-patterns](https://github.com/kaiosilveira/design-patterns).
 
 I'm also interested on building highly scalable, production-ready, twelve-factor-compliant NodeJS applications, so you'll probably find some experimental repositories with interesting examples ([nodejs-layered-app](https://github.com/kaiosilveira/nodejs-layered-app), for instance) on the "Pinned" section below.
 
