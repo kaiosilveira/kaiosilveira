@@ -6,10 +6,20 @@ I'm Brazilian, from São Paulo, but I'm currently based in Lisbon, Portugal, whe
 
 My previous experiences includes the Trainline, the leading train ticketing company in Europe, and Yellowcam, a startup based in São Paulo which provides monitoring features to urban areas.
 
-My repository list is a mess, so here are the hottest repos I have:
-- [design-patterns](https://github.com/kaiosilveira/design-patterns): A catalog of design patterns, based on GoF's catalog and the Head-First Design Patterns book
-- [nodejs-layered-app](https://github.com/kaiosilveira/nodejs-layered-app): An example of a 12-factor NodeJS app
-- [ab-testing-web-app](https://github.com/kaiosilveira/ab-testing-web-app): A React web app with a simple A/B testing setup
+My repository list is a mess, so I've compiled a list of my most interesting repos, aggregated by technology:
+
+**NodeJS**
+- [nodejs-layered-app](https://github.com/kaiosilveira/nodejs-layered-app): highly scalable, domain-driven, 12-factor compliant architecture
+- [nodejs-ticketing-app](https://github.com/kaiosilveira/nodejs-ticketing-app): extremely performant, event oriented, 12-factor compliant architecture [WIP]
+- nodejs-modular-app: microsservice-ready, shared-nothing, event-oriented modular architecture [Coming soon]
+
+**C#**
+- [design-patterns](https://github.com/kaiosilveira/design-patterns): a catalog of design patterns, based on GoF's catalog and the Head-First Design Patterns book [WIP]
+
+**ReactJS**
+- [ab-testing-web-app](https://github.com/kaiosilveira/ab-testing-web-app): a web app with a simple A/B testing setup [WIP]
+- [modular-web-app]: a modular web app with independent package management [Coming soon]
+- [microfrontend-web-app]: a microfrontend web app [Coming soon]
 
 Additional info about me:
 - 📫 How to reach me: silveira.kaio@icloud.com | https://www.linkedin.com/in/kaio-silveira/
