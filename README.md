@@ -11,6 +11,7 @@ My repository list is a mess, so I've compiled a list of my most interesting rep
 **NodeJS**
 - [nodejs-layered-app](https://github.com/kaiosilveira/nodejs-layered-app): highly scalable, domain-driven, 12-factor compliant architecture
 - [nodejs-ticketing-app](https://github.com/kaiosilveira/nodejs-ticketing-app): extremely performant, event oriented, 12-factor compliant architecture [WIP]
+- [nodejs-mailing-app](https://github.com/kaiosilveira/nodejs-mailing-app): sample mailing architecture with an interface-oriented, unversal approach to queue listening and mail processing
 - nodejs-modular-app: microsservice-ready, shared-nothing, event-oriented modular architecture [Coming soon]
 
 **C#**
