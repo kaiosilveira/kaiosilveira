@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-I'm a software engineer with 6+ years of experience in the software industry. Throughout my career I've worked mostly for consultancy firms, which allowed me to get in touch with a lot of different domains and to learn a lot of interesting stacks.
+I'm a software engineer with 7+ years of experience in the software industry. Throughout my career I've worked mostly for consultancy firms, which allowed me to get in touch with a lot of different domains and to learn a lot of interesting stacks.
 
 I'm Brazilian, from São Paulo, but I'm currently based in Lisbon, Portugal, where I'm working remotely for FindMyPast, a company that helps professionals and enthusiasts of geneology to build family trees. The biggest challenges there are the volume of data we have to handle (billions of family tree records, hints and search data), which we manage to overcome with a service-oriented arquitecture built mostly with NodeJS and GraphQL. I'm currently in a product-facing team which has as the main goals improve some business metrics, which we are managing to accomplish by developing a data-driven mindset and lunching A/B tests to support our assumptions in a regular basis.
 
