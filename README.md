@@ -8,6 +8,10 @@ My other recent working experiences include the Trainline, the leading train tic
 
 My repository list is a mess, so I've compiled a list of my most interesting repos, aggregated by topic:
 
+**Patterns and best practices based on the literature**
+- [design-patterns](https://github.com/kaiosilveira/design-patterns): a catalog of design patterns, based on GoF's catalog and the Head-First Design Patterns book [WIP]
+- refactoring: Coming soon
+
 **NodeJS**
 - [nodejs-layered-app](https://github.com/kaiosilveira/nodejs-layered-app): highly scalable, domain-driven, 12-factor compliant architecture example
 - [nodejs-ticketing-app](https://github.com/kaiosilveira/nodejs-ticketing-app): A comparison on single-process vs multi-process (child-process oriented) execution of parallel requests [WIP]
@@ -19,10 +23,6 @@ My repository list is a mess, so I've compiled a list of my most interesting rep
 - [tic-tac-toe](https://github.com/kaiosilveira/enzo-tic-tac-toe): tic-tac-toe game built in a pair programming session with my 5yo son 🤣
 - [modular-web-app]: a modular web app with independent package management [Coming soon]
 - [microfrontend-web-app]: a microfrontend web app [Coming soon]
-
-**Patterns and best practices based on the literature**
-- [design-patterns](https://github.com/kaiosilveira/design-patterns): a catalog of design patterns, based on GoF's catalog and the Head-First Design Patterns book [WIP]
-- refactoring: Coming soon
 
 Additional info about me:
 - 📫 How to reach me: silveira.kaio@icloud.com | https://www.linkedin.com/in/kaio-silveira/
