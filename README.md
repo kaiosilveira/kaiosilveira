@@ -16,6 +16,7 @@ My repository list is a mess, so I've compiled a list of my most interesting rep
 
 **ReactJS**
 - [ab-testing-web-app](https://github.com/kaiosilveira/ab-testing-web-app): a web app with a simple A/B testing setup [WIP]
+- [tic-tac-toe](https://github.com/kaiosilveira/enzo-tic-tac-toe): tic-tac-toe game built in a pair programming session with my 5yo son 🤣
 - [modular-web-app]: a modular web app with independent package management [Coming soon]
 - [microfrontend-web-app]: a microfrontend web app [Coming soon]
 
