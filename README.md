@@ -10,7 +10,7 @@ My repository list is a mess, so I've compiled a list of my most interesting rep
 
 **Patterns and best practices based on the literature**
 - [design-patterns](https://github.com/kaiosilveira/design-patterns): a catalog of design patterns, based on GoF's catalog and the Head-First Design Patterns book [WIP]
-- refactoring: Coming soon
+- [refactoring](https://github.com/kaiosilveira/refactoring): a working implementation of the refactoring catalog, based on Martin Fowler's book on this topic [Brand new WIP]
 
 **NodeJS**
 - [nodejs-layered-app](https://github.com/kaiosilveira/nodejs-layered-app): highly scalable, domain-driven, 12-factor compliant architecture example
