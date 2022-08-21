@@ -12,6 +12,9 @@ I take learning seriously and always try to document my progress in the form of 
 - [design-patterns](https://github.com/kaiosilveira/design-patterns): a catalog of design patterns, based on GoF's catalog and the Head-First Design Patterns book [WIP]
 - [refactoring](https://github.com/kaiosilveira/refactoring): a working implementation of the refactoring catalog, based on Martin Fowler's book on this topic [Brand new WIP]
 
+**Hacker Rank challenges**
+- [hacker-rank-challenges](https://github.com/kaiosilveira/hacker-rank-challenges): an aggregator of my hacker rank solutions, with detailed explanation, benchmarking and testing
+
 **NodeJS**
 - [nodejs-layered-app](https://github.com/kaiosilveira/nodejs-layered-app): highly scalable, domain-driven, 12-factor compliant architecture example
 - [nodejs-mailing-app](https://github.com/kaiosilveira/nodejs-mailing-app): sample mailing architecture with an interface-oriented, unversal approach to queue listening and mail processing
