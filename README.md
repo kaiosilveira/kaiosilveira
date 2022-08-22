@@ -1,4 +1,4 @@
-### Hi there 👋🏽
+### Hello there 👋🏽
 
 I'm a software engineer with 7+ years of experience in the software industry. Throughout my career I've worked mostly for consultancy firms, which allowed me to get in touch with a lot of different domains and to learn a lot of interesting stacks.
 
