@@ -18,6 +18,7 @@ I take learning seriously and always try to document my progress in the form of 
 **NodeJS**
 - [nodejs-layered-app](https://github.com/kaiosilveira/nodejs-layered-app): highly scalable, domain-driven, 12-factor compliant architecture example
 - [nodejs-mailing-app](https://github.com/kaiosilveira/nodejs-mailing-app): sample mailing architecture with an interface-oriented, unversal approach to queue listening and mail processing
+- [nodejs-circuit-breaker](https://github.com/kaiosilveira/nodejs-circuit-breaker): Sample circuit breaker implementation on top of express
 - [nodejs-ticketing-app](https://github.com/kaiosilveira/nodejs-ticketing-app): A comparison on single-process vs multi-process (child-process oriented) execution of parallel requests [WIP]
 - [nodejs-modular-app]: Coming soon
 
