@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-silveira/)
+
 ### Hello there 👋🏽
 
 I'm a software engineer with 7+ years of experience in the software industry. Throughout my career I've worked mostly for consultancy firms, which allowed me to get in touch with a lot of different domains and to learn a lot of interesting stacks.
@@ -33,6 +35,14 @@ I take learning seriously and always try to document my progress in the form of 
 - [microfrontend-web-app]: a microfrontend web app [Coming soon]
 
 Additional info about me:
-
-- 📫 How to reach me: silveira.kaio@icloud.com | https://www.linkedin.com/in/kaio-silveira/
 - 😄 Pronouns: He / Him
+
+<div>
+  <a href="https://github.com/kaiosilveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiosilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiosilveira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div hidden>
+  <image hidden height="0px" style='display: hidden' src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=kaiosilveira&repo=kaiosilveira&countColorcountColor"/>
+</div>
