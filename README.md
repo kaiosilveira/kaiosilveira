@@ -8,7 +8,7 @@ I'm Brazilian, from São Paulo, but I'm currently based in Lisbon, Portugal, whe
 
 My other recent working experiences include the Trainline, the leading train ticketing company in Europe, and Yellowcam, a startup based in São Paulo which provides monitoring features to urban areas.
 
-I take learning seriously and always try to document my progress in the form of repositories here in GitHub. Some of these repos demands a lot of effort to build, so I think they deserve a special spot in the "pinned" section below. Make sure to check them out if you have some time! 😀
+I take learning seriously and always try to document my progress in the form of repositories here in GitHub. Some of these repos demand a lot of effort to build and maintain, so I think they deserve a special spot in the "Pinned" section below. Make sure to check them out if you have some time! 😀
 
 
 <div>
