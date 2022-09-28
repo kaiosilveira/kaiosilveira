@@ -38,8 +38,5 @@ I take learning seriously and always try to document my progress in the form of 
   <a href="https://github.com/kaiosilveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiosilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiosilveira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div hidden>
-  <image hidden height="0px" style='display: hidden' src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=kaiosilveira&repo=kaiosilveira&countColorcountColor"/>
+  <img height="180em" src="  https://github-readme-streak-stats.herokuapp.com/?user=kaiosilveira"/>
 </div>
