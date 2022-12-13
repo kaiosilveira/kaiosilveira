@@ -13,4 +13,4 @@ I take learning seriously and always try to document my progress in the form of 
 
 **quick info**
 - Currently learning: [Rust](https://github.com/kaiosilveira/the-rust-programming-language) 🦀
-- Currently working on: [Advent of Code 2022 challenges](https://github.com/kaiosilveira/advent-of-code-2022) 🎄
+- Currently having fun with: [Advent of Code 2022 challenges](https://github.com/kaiosilveira/advent-of-code-2022) 🎄
