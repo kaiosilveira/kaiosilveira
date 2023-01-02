@@ -9,6 +9,6 @@ I'm Brazilian, from São Paulo, where I've developed solid engineering skills in
 
 I've been using GitHub as my main portifolio, so here you'll find repositories approaching a wide breadth of engineering topics, all with working implementations and solid documentation. Make sure to take a look at the Pinned section below!
 
-**What I'm doing lately**
+**What I've been busy with lately 👇🏽**
 - [Learning Rust](https://github.com/kaiosilveira/the-rust-programming-language) 🦀
 - [Solving Advent of Code challenges](https://github.com/kaiosilveira/advent-of-code-2022) 🎄
