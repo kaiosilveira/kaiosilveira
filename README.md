@@ -11,4 +11,4 @@ I've been using GitHub as my main portifolio, so here you'll find repositories a
 
 **What I've been busy with lately 👇🏽**
 - [Learning Rust](https://github.com/kaiosilveira/the-rust-programming-language) 🦀
-- [Solving Advent of Code challenges](https://github.com/kaiosilveira/advent-of-code-2022) 🎄
+- [Solving & documenting Advent of Code challenges](https://github.com/kaiosilveira/advent-of-code-2022) 🎄
