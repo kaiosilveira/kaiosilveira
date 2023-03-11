@@ -1,9 +1,9 @@
 # Salve, quebrada ✊🏽 (Hello there!)
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaiosilveira)
-[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]([https://medium.com/@kaiosilveira](https://stackoverflow.com/users/18781325/kaio-silveira))
-[![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)]([https://www.duolingo.com/profile/silveirakaio](https://www.duolingo.com/profile/silveirakaio))
-[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]([https://www.hackerrank.com/silveira_kaio?hr_r=1](https://www.hackerrank.com/silveira_kaio?hr_r=1))
+[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18781325/kaio-silveira)
+[![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/silveirakaio)
+[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/silveira_kaio?hr_r=1)
 
 I'm Kaio, a software engineer with 8+ years of experience in the software industry. Throughout my career, I've worked mostly for consultancy firms, which allowed me to get in touch with different domains and learn a multitude of stacks.
 
