@@ -1,4 +1,4 @@
-# Salve, quebrada ✊🏽 (Hello there!)
+# Salve, quebrada ✊🏽🇧🇷
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaiosilveira)
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-12100E?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18781325/kaio-silveira)
