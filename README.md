@@ -11,4 +11,4 @@ I'm Brazilian, from São Paulo, where I developed a solid foundational set of en
 
 I've been using GitHub both professionally and as my portfolio, so here you'll find repositories approaching a wide range of engineering topics, all implemented with clean code that works and solid documentation. Make sure to take a look at the Pinned section below!
 
-\* _If you're curious about my stack affinities and tech interests, please check out [my lists and starred topics in my Stars tab](https://github.com/kaiosilveira?tab=stars)._
+\* _If you're curious about my stack affinities and tech interests, please check out [my lists and starred topics in the Stars tab](https://github.com/kaiosilveira?tab=stars)._
