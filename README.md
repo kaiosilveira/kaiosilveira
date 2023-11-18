@@ -13,4 +13,6 @@ I've been using GitHub both professionally and as my portfolio. As a result of t
 
 \* _If you're curious about my stack affinities and tech interests, please check out [my lists and starred topics in the Stars tab](https://github.com/kaiosilveira?tab=stars)._
 
-📝 Check out my latest article on Medium: [Rearchitecting a business-critical cronjob: a tale on why some decisions are more difficult to change than others](https://medium.com/@kaiosilveira/rearchitecting-a-business-critical-cronjob-a-tale-on-why-some-decisions-are-more-difficult-to-7cea70db5062)
+📝 Check out my latest articles on Medium:
+- [Is GitHub Copilot helping me become a better coding pilot?](https://medium.com/@kaiosilveira/is-github-copilot-helping-me-become-a-better-coding-pilot-5570475e0a27)
+- [Rearchitecting a business-critical cronjob: a tale on why some decisions are more difficult to change than others](https://medium.com/@kaiosilveira/rearchitecting-a-business-critical-cronjob-a-tale-on-why-some-decisions-are-more-difficult-to-7cea70db5062)
