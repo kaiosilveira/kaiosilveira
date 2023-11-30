@@ -15,7 +15,7 @@ I've been using GitHub both professionally and as my portfolio. As a result of t
 
 ## 📝 Latest articles
 
-I keep a Medium blog, where I share lessons learned, personal experiences with stacks and tools and anything else related to tech that comes to mind. Check out my latest articles below:
+I keep a Medium blog, where I share lessons learned, personal experiences with different tech stacks and tools and anything else related to tech that comes to mind. Check out my latest articles below:
 
 - [Is GitHub Copilot helping me become a better coding pilot?](https://medium.com/@kaiosilveira/is-github-copilot-helping-me-become-a-better-coding-pilot-5570475e0a27)
 - [Rearchitecting a business-critical cronjob: a tale on why some decisions are more difficult to change than others](https://medium.com/@kaiosilveira/rearchitecting-a-business-critical-cronjob-a-tale-on-why-some-decisions-are-more-difficult-to-7cea70db5062)
