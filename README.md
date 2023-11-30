@@ -13,13 +13,6 @@ I've been using GitHub both professionally and as my portfolio. As a result of t
 
 \* _If you're curious about my stack affinities and tech interests, please check out [my lists and starred topics in the Stars tab](https://github.com/kaiosilveira?tab=stars)._
 
-## 📝 Latest articles
-
-I keep a Medium blog, where I share lessons learned, personal experiences with different tech stacks and tools and anything else related to tech that comes to mind. Check out my latest articles below:
-
-- [Is GitHub Copilot helping me become a better coding pilot?](https://medium.com/@kaiosilveira/is-github-copilot-helping-me-become-a-better-coding-pilot-5570475e0a27)
-- [Rearchitecting a business-critical cronjob: a tale on why some decisions are more difficult to change than others](https://medium.com/@kaiosilveira/rearchitecting-a-business-critical-cronjob-a-tale-on-why-some-decisions-are-more-difficult-to-7cea70db5062)
-
 ## 🧩 Problem-solving
 
 Problem-solving is an integral part of the day-to-day life of every programmer, independent of their current level of expertise. With that in mind, I'm constantly searching for new tiny challenges and solving them as a way to keep my mind fast and sharp. As a natural outcome of that, though, there's code, so I decided to document all the challenges I managed to solve so far, separated by platform.
@@ -36,3 +29,10 @@ The Advent of Code is an annual event that happens in December and is the progra
 
 - 2023: [@kaiosilveira/advent-of-code-2023](https://github.com/kaiosilveira/advent-of-code-2023)
 - 2022: [@kaiosilveira/advent-of-code-2022](https://github.com/kaiosilveira/advent-of-code-2022)
+
+## 📝 Latest articles
+
+I keep a Medium blog, where I share lessons learned, personal experiences with different tech stacks and tools and anything else related to tech that comes to mind. Check out my latest articles below:
+
+- [Is GitHub Copilot helping me become a better coding pilot?](https://medium.com/@kaiosilveira/is-github-copilot-helping-me-become-a-better-coding-pilot-5570475e0a27)
+- [Rearchitecting a business-critical cronjob: a tale on why some decisions are more difficult to change than others](https://medium.com/@kaiosilveira/rearchitecting-a-business-critical-cronjob-a-tale-on-why-some-decisions-are-more-difficult-to-7cea70db5062)
