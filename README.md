@@ -11,23 +11,6 @@ I'm Kaio, a _stack-agnostic\*_ software engineer with almost a decade of experie
 
 I'm Brazilian, from São Paulo, where I developed a solid foundational set of engineering skills in my first five years in the industry, benefiting from the strong IT market in the region. Nowadays I live in Lisbon, Portugal, where I started my international career about four years ago. Here, I had the opportunity to work remotely for some UK companies such as FindMyPast, which focuses on helping customers connect to their family stories, where I helped improve retention and engagement via [A/B/n testing](https://github.com/kaiosilveira/ab-testing-web-app) and developing lean product features; and The Trainline, the leading Train ticketing company in Europe, where I helped supporting existing carrier connections and implemented a cache-based, redis-powered solution to keep track of ticket availability for one of the carriers. This year I joined Bloqit, the fastest-growing smart locker company in the world and one of the top 10 most promising startups in Portugal, focused on developing end-to-end, fully integrated, state-of-the-art smart-locker solutions, where I've been helping to sustain their accelerated growth pace, while also architecting new ideas and solutions, with a special eye out for scalability and testability.
 
-## 🧩 Problem-solving
-
-Problem-solving is an integral part of the day-to-day life of every programmer, independent of their current level of expertise. With that in mind, I'm constantly searching for new tiny challenges and solving them as a way to keep my mind fast and sharp. As a natural outcome of that, though, there's code, so I decided to document all the challenges I managed to solve so far, separated by platform.
-
-### 💻 Hacker Rank
-
-Hacker Rank is a platform that provides access to several challenges, with different difficulties, for programmers of all levels. I try to solve a new challenge from there at least once a week, so I created a separate repository to aggregate these solutions, with some tooling to set up a new challenge with all boilerplate code configured. Beyond challenge resolution, each solution comes with a detailed step-by-step description of how to reach the result, proper unit testing, and a heavy analysis of the final solution, including benchmarking and a time complexity overview.
-
-To see the details of all this work, check my repository page [@kaiosilveira/hacker-rank-challenges](https://github.com/kaiosilveira/hacker-rank-challenges).
-
-### 🎄 Advents of Code
-
-The Advent of Code is an annual event that happens in December and is the programmer's version of an "advent calendar". In the platform, from Dec 1 to Dec 25 a new challenge is released every day. Each challenge consists of two parts, with the second one requiring the implementation of the first. Following the same rationale used above, I'm creating a new repository for each participation and documenting both the challenges themselves and my solutions.
-
-- 2023: [@kaiosilveira/advent-of-code-2023](https://github.com/kaiosilveira/advent-of-code-2023)
-- 2022: [@kaiosilveira/advent-of-code-2022](https://github.com/kaiosilveira/advent-of-code-2022)
-
 ## 📝 Latest articles
 
 I keep a Medium blog, where I share lessons learned, personal experiences with different tech stacks and tools and anything else related to tech that comes to mind. Check out my latest articles below:
