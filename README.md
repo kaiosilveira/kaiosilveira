@@ -1,8 +1,5 @@
 # Salve, quebrada! ✊🏽🇧🇷
 
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaiosilveira)
-[![Duolingo Badge](https://img.shields.io/badge/Duolingo-12100E?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/silveirakaio)
-
 I'm Kaio, a _stack-agnostic\*_ software engineer with almost a decade of experience in the software industry, spanning multiple tech stacks, several industry verticals and all organization sizes.
 
 \* _If you're curious about my stack affinities and tech interests, please check out [my lists and starred topics in the Stars tab](https://github.com/kaiosilveira?tab=stars)._
