@@ -16,6 +16,4 @@ I keep a Medium blog and there I share lessons learned, personal experiences wit
 - [Is GitHub Copilot helping me become a better coding pilot?](https://medium.com/@kaiosilveira/is-github-copilot-helping-me-become-a-better-coding-pilot-5570475e0a27)
 - [Rearchitecting a business-critical cronjob: a tale on why some decisions are more difficult to change than others](https://medium.com/@kaiosilveira/rearchitecting-a-business-critical-cronjob-a-tale-on-why-some-decisions-are-more-difficult-to-7cea70db5062)
 
----
-
 I've been using GitHub both professionally and as my portfolio. As a result of this fact, the contribution stats shown here are a comprehensive summary of all my engineering efforts on these two fronts. My public repositories approach a wide range of engineering topics, all implemented with clean code that works and solid documentation and references. So make sure to take a look at the Pinned section below!
