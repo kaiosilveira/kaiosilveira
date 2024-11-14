@@ -1,6 +1,6 @@
 # Salve, quebrada! ✊🏽🇧🇷
 
-I'm Kaio, a _stack-agnostic\*_ software engineer with almost a decade of experience in the software industry, spanning multiple tech stacks, several industry verticals and all organization sizes.
+I'm Kaio, a software architect with almost a decade of experience in the software industry, spanning multiple tech stacks, several industry verticals and all organization sizes.
 
 \* _If you're curious about my stack affinities and tech interests, please check out [my lists and starred topics in the Stars tab](https://github.com/kaiosilveira?tab=stars)._
 
