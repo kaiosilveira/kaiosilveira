@@ -16,6 +16,6 @@ I keep a Medium blog where I share lessons learned, personal experiences with di
 
 ---
 
-I use GitHub both professionally and as my portfolio. As a result, the contribution stats shown here are a comprehensive summary of all my engineering efforts on these two fronts. My public repositories approach a wide range of engineering topics, all implemented with clean code that works and solid documentation and references. So make sure to take a look at the Pinned section below!
+I use GitHub both professionally and as my portfolio. As a result, the contribution stats shown here are a comprehensive summary of all my engineering efforts on these two fronts. My public repositories approach a wide range of engineering topics, all implemented with clean code that works and solid documentation and references, so make sure to take a look at the Pinned section below!
 
 _For my stack affinities and tech interests, please check out [my lists and starred topics in the Stars tab](https://github.com/kaiosilveira?tab=stars)._
