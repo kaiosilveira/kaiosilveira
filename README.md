@@ -8,7 +8,7 @@ I'm Brazilian, from São Paulo, place where I developed a solid foundational set
 
 ## 📝 Latest articles
 
-I keep a Medium blog where I share lessons learned, personal experiences with different tech stacks and tools, and anything else related to tech that comes to mind. Check out my latest articles below:
+I sporadically write to my Medium blog, where I share lessons learned, personal experiences with different tech stacks and tools, and anything else related to tech that comes to mind. Check out my latest articles below:
 
 - [Streamlining learning with Apple Shortcuts: a Flashcards app](https://medium.com/@kaiosilveira/streamlining-learning-with-apple-shortcuts-a-flashcards-app-186e8d8cff72)
 - [Is GitHub Copilot helping me become a better coding pilot?](https://medium.com/@kaiosilveira/is-github-copilot-helping-me-become-a-better-coding-pilot-5570475e0a27)
