@@ -1,6 +1,6 @@
 # Salve, quebrada! ✊🏽🇧🇷
 
-I'm Kaio, a software architect with almost a decade of experience in the software industry, spanning multiple tech stacks, several industry verticals and all organization sizes.
+I'm Kaio, a software architect with an engineering backend and almost a decade of experience in the software industry, spanning multiple tech stacks, several industry verticals and all organization sizes.
 
 ## 👋🏽 About me
 
