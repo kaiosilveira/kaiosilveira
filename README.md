@@ -1,21 +1,21 @@
-# Salve, quebrada! ✊🏽🇧🇷
+# Salve! ✊🏽
 
-I'm Kaio, a software architect with an engineering background and almost a decade of experience in the software industry, spanning multiple tech stacks, several industry verticals and all organization sizes.
+Every architecture decision is a bet on what the system will need. I try to make those bets explicit: name the constraint, write down the options, test the risky assumption, and say what would change my mind.
 
-## 👋🏽 About me
+I'm Kaio, a software architect at Bloqit, where I design and build the platform behind its smart lockers. About a decade of hands-on engineering, from early-stage products to systems that have to keep running while the company grows. Current focus: distributed systems reliability, ML foundations, and AI engineering (foundation models, RAG, evaluation).
 
-I'm Brazilian, from São Paulo, place where I developed a solid foundational set of engineering skills in my first five years in the industry, benefiting from the strong IT market in the region. Nowadays I live in Lisbon, Portugal, where I'm helping to build the future of smart-lockers at Bloqit, the fastest-growing smart locker company in the world and one of the top 10 most promising scale-ups in Portugal, where I help develop end-to-end, fully integrated, state-of-the-art smart-locker solutions. As for my role: I've been helping to sustain our accelerated growth pace by designing, discussing, and implementing evolutionary architectural solutions that are scalable, reliable, and expandable, while also going fully hands-on with coding tasks on our several fronts. By the way, we're hiring for both [front](https://bloqit.factorialhr.com/job_posting/software-engineer-frontend-67596) and [backend](https://bloqit.factorialhr.com/job_posting/software-engineer-backend-67370)-focused positions, and also for several other areas in tech. Intrigued?! Don't miss out! Check out our [job board](https://bloqit.factorialhr.com/#jobs) now!
+## How I work
+- Quality attributes (latency, availability, cost) come first and drive the design.
+- Significant decisions get a record: options, trade-offs, and the conditions for revisiting them.
+- Risky assumptions get a prototype, a load test, or a fault-injection run before they get a roadmap.
+- AI-assisted code goes through the same tests and review as any other change.
 
-## 📝 Latest articles
+## Featured work
+- [`refactoring`](https://github.com/kaiosilveira/refactoring): Fowler's 61 refactorings (2nd ed.) implemented step by step, with diffs and tests. Demonstrates safe, incremental change.
+- [`stability-patterns`](https://github.com/kaiosilveira/stability-patterns): *Release It!* patterns in TypeScript, with load tests and fault injection for circuit breaker and let it crash. Demonstrates failure handling and recovery you can run, not just read about.
 
-I sporadically write to my Medium blog, where I share lessons learned, personal experiences with different tech stacks and tools, and anything else related to tech that comes to mind. Check out my latest articles below:
-
-- [Streamlining learning with Apple Shortcuts: a Flashcards app](https://medium.com/@kaiosilveira/streamlining-learning-with-apple-shortcuts-a-flashcards-app-186e8d8cff72)
-- [Is GitHub Copilot helping me become a better coding pilot?](https://medium.com/@kaiosilveira/is-github-copilot-helping-me-become-a-better-coding-pilot-5570475e0a27)
-- [Rearchitecting a business-critical cronjob: a tale on why some decisions are more difficult to change than others](https://medium.com/@kaiosilveira/rearchitecting-a-business-critical-cronjob-a-tale-on-why-some-decisions-are-more-difficult-to-7cea70db5062)
-
----
-
-I use GitHub both professionally and as my portfolio. As a result, the contribution stats shown here are a comprehensive summary of all my engineering efforts on these two fronts. My public repositories approach a wide range of engineering topics, all implemented with clean code that works and solid documentation and references, so make sure to take a look at the Pinned section below!
-
-_For my stack affinities and tech interests, please check out [my lists and starred topics in the Stars tab](https://github.com/kaiosilveira?tab=stars)._
+## Foundations
+- [`test-driven-development`](https://github.com/kaiosilveira/test-driven-development): Beck's *TDD by Example*, one pull request per chapter.
+- [`refactoring`](https://github.com/kaiosilveira/refactoring): the full catalog, step by step.
+- [`design-patterns`](https://github.com/kaiosilveira/design-patterns): all 23 GoF patterns in C#, with diagrams and tests.
+- [`patterns-of-enterprise-application-architecture`](https://github.com/kaiosilveira/patterns-of-enterprise-application-architecture): Fowler's PoEAA catalog, in progress.
